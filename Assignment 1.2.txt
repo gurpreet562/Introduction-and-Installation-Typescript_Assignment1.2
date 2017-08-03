@@ -1,0 +1,18 @@
+Assignment 1.2 : Installing Angular CLI and creating the new project.
+
+1. After successfully installing nodeJs and npm, install angular CLI by running the command ng --version on the command prompt.
+
+2. If successfully installed it will show the version of angular cli , node and the operating system on which it is installed.
+
+3. After angular cli successfully installed, now create a project demonstrating the working of the application via angular cli.
+           ....Open the Command Prompt and type cd Desktop to navigate to the desktop.
+           ....Then type ng new <ProjectName>(eg:- ng new firstProject)
+           ....The desired with the specified name will be created at the desktop.
+4. Now navigate to the project folder.
+
+5. Type the command: ng serve on the command prompt.
+
+6. After running the above command Open the browser and type: http://localhost:4200/
+
+7. If at the browser the message is displayed then the project is successfully created and the angular cli is working.
+
